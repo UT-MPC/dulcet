@@ -1,2 +1,10 @@
 .DS_Store
 __pycache__
+.ipynb_checkpoints
+.empty
+notes.md
+./simulator/results/data/.csv
+./simulator/cache/mobility/.pkl
+./simulator/cache/simulations/.pkl
+optimizer.R
+model.R
