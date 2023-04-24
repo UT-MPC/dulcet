@@ -32,4 +32,4 @@ There are many other configurations in ``./simulator/evals`` for simulating neig
 The original optimizer and model implementation for BLEnd is a dependency of this simulator, but is not currently included in this repository. We have, however, included a large table of pre-configured schedules that are sufficient for running many of the existing simulation configurations (provided the random seed is held constant). Please contact us if you wish to obtain these implementations.
 
 ### Contact
-Evan King, UT Austin, e (dot) king (at) utexas (dot) edu
+[Evan King](https://evanking.io), UT Austin, e (dot) king (at) utexas (dot) edu
